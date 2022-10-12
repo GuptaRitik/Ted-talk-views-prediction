@@ -2,10 +2,10 @@ TED is devoted to spreading powerful ideas on just about any topic. These datase
 
 This is the Regression problem as we need to predict Views (continous values), and there are various algorithm available which we are trying to model and choose the optimal model.
 
-Goal:-
+### Goal:-
 Analysing the data, providing insights and build a predictive ML model to predict the views for any given data of videos.
 
-# Process towards Goal:-
+### Process towards Goal:-
 * Importing necessary libraries (for Model building we're gonna  use scikit-learn)
 * Importing dataset
 * Data processing for EDA
