@@ -1,0 +1,7 @@
+numpy==1.22.4
+matplotlib==3.7.1
+seaborn==0.12.2
+pandas==1.5.3
+squarify==0.4.3
+wordcloud==1.8.2.2
+xgboost==1.7.5
